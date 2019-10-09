@@ -1,0 +1,8 @@
+C:\Users\ِAbdallah Hemdan\Desktop\SceatchPad\SceatchPad\SceatchPad\bin\Debug\SceatchPad.exe.config
+C:\Users\ِAbdallah Hemdan\Desktop\SceatchPad\SceatchPad\SceatchPad\bin\Debug\SceatchPad.exe
+C:\Users\ِAbdallah Hemdan\Desktop\SceatchPad\SceatchPad\SceatchPad\bin\Debug\SceatchPad.pdb
+C:\Users\ِAbdallah Hemdan\Desktop\SceatchPad\SceatchPad\SceatchPad\obj\Debug\SceatchPad.Form1.resources
+C:\Users\ِAbdallah Hemdan\Desktop\SceatchPad\SceatchPad\SceatchPad\obj\Debug\SceatchPad.Properties.Resources.resources
+C:\Users\ِAbdallah Hemdan\Desktop\SceatchPad\SceatchPad\SceatchPad\obj\Debug\SketchPad.csproj.GenerateResource.Cache
+C:\Users\ِAbdallah Hemdan\Desktop\SceatchPad\SceatchPad\SceatchPad\obj\Debug\SceatchPad.exe
+C:\Users\ِAbdallah Hemdan\Desktop\SceatchPad\SceatchPad\SceatchPad\obj\Debug\SceatchPad.pdb
